@@ -647,7 +647,7 @@ Tất cả notebooks đã được test kỹ và chạy thành công. Nếu Cô 
 Em cảm ơn Cô đã dành thời gian đọc hướng dẫn này. Em hy vọng mọi thứ được giải thích rõ ràng và dễ hiểu.
 
 Trân trọng,
-[NHÓM 05]
+[NHÓM 11]
 
 ---
 
