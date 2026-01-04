@@ -566,7 +566,7 @@ Em xin tóm tắt kết quả accuracy trên test set của các models:
 | Decision Tree | ~87-88% | Balance giữa speed và accuracy |
 | Softmax | ~89-91% | Tốt cho linear separable classes |
 | Hard Voting | ~90-91% | Cải thiện nhẹ so với base models |
-| AdaBoost | ~90-92% | Tốt nhưng train lâu |
+| AdaBoost | ~88-90% | Tốt nhưng train lâu |
 | Random Forest | ~94-96% | Accuracy cao nhất |
 
 **Nhận xét:**
