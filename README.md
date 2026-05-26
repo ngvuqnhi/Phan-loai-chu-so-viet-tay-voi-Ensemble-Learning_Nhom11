@@ -665,4 +665,3 @@ Trân trọng,
 
 *Hướng dẫn này được viết với tâm huyết và kiểm tra kỹ lưỡng*
 *Mọi thắc mắc xin liên hệ qua email: 23133050@student.hcmute.edu.vn*
-*Chúc Cô có trải nghiệm tốt khi chạy code!*
