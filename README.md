@@ -641,9 +641,6 @@ Em xin tóm tắt lại:
 5. **Khuyến nghị:** Dùng Google Colab cho tiện
 
 Tất cả notebooks đã được test kỹ và chạy thành công. Nếu Cô gặp bất kỳ vấn đề gì khi reproduce, em rất sẵn lòng hỗ trợ thêm.
-
-Em cảm ơn Cô đã dành thời gian đọc hướng dẫn này. Em hy vọng mọi thứ được giải thích rõ ràng và dễ hiểu.
-
 Trân trọng,
 [NHÓM 11]
 
