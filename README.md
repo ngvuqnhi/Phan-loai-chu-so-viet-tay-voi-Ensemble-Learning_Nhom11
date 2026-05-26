@@ -2,8 +2,6 @@
 
 ## Lời mở đầu
 
-Kính gửi Cô,
-
 Em xin phép trình bày hướng dẫn chi tiết cách chạy và sử dụng các model trong đồ án này. Em đã cố gắng tổ chức code và viết hướng dẫn sao cho Cô có thể dễ dàng reproduce lại kết quả. Tất cả các notebook đều được test kỹ và chạy thành công trên cả môi trường local và Google Colab.
 
 ---
